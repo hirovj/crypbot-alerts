@@ -1,5 +1,6 @@
 # crypbot-alerts
 crypbot-alerts for fun
 
-Demo lan 01
+Demo them lan 2 duoc chua ne 
 
+Xoa dong dau 
