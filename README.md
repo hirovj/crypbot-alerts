@@ -1,2 +1,2 @@
-# crypto-alerts
-crypto-alerts for fun
+# crypbot-alerts
+crypbot-alerts for fun
